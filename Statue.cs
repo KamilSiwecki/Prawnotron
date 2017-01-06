@@ -8,6 +8,7 @@ namespace Prawnotron
     /*
     static void Main()
     {
+    //dupa kupa kamil jestem
     TODO: Dziewczyny, tak Ustaw nie robimy. Obgadać.
     Statue ustawaZPliku = new Ustawa("nazwa_pliku.html");
     Statue ustawaZeStringu = new Ustawa("<html>.....</html>", true);
